@@ -1,6 +1,6 @@
-# CMC - Integrating Data with a Virtual Scene
+# CMPUT414 CrowdSceneIntegration - Integrating Data with a Virtual Scene
 ---
-
+This is the re-upload
 ### Note:
 This project uses the "Crowd Motion Capture" software developed by Michael Feist, Benjamin Lavin, Maciej Ogrocki, and Tamara Bain. Details pertaining to how the crowd motion data is obtained and the documentation can be found at the original repository located <a href="https://github.com/Tamarabyte/CrowdMotionCapture">here</a>.
 
