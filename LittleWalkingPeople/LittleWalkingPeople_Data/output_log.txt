@@ -1,0 +1,29 @@
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+d3d11: failed to create D3D11 device (0x887a0004)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [prl_umdd.dll 8.15.10.32521]
+    Renderer: Parallels Display Adapter (WDDM)
+    Vendor:   Parallels
+    VRAM:     383 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: U:\LittleWalkingPeople\LittleWalkingPeople_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading U:\LittleWalkingPeople\LittleWalkingPeople_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: U:\LittleWalkingPeople\LittleWalkingPeople_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading U:\LittleWalkingPeople\LittleWalkingPeople_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: U:\LittleWalkingPeople\LittleWalkingPeople_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading U:\LittleWalkingPeople\LittleWalkingPeople_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: U:\LittleWalkingPeople\LittleWalkingPeople_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading U:\LittleWalkingPeople\LittleWalkingPeople_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.155 seconds
+desktop: 1440x900 60Hz; virtual: 1440x900 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: U:\LittleWalkingPeople\LittleWalkingPeople_Data\Managed\System.Core.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: ec8 -> priority: 1 
+Platform assembly: U:\LittleWalkingPeople\LittleWalkingPeople_Data\Managed\System.dll (this message is harmless)
